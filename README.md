@@ -47,3 +47,48 @@ $ git log
 ```bash
 $ git diff
 ```
+
+* ブランチの作成
+```bash
+$ git branch
+```
+
+* ブランチの切替
+```bash
+$ git checkout
+```
+
+* ブランチをマージ
+```bash
+$ git merge
+```
+
+* 歴史を戻る
+```bash
+$ git reset --hard
+```
+
+* これまでの作業のログを全て確認
+```bash
+$ git reflog
+```
+
+* リモートリポジトリを登録
+```bash
+$ git remote add
+```
+
+* リモートリポジトリへ送信
+```bash
+$ git push
+```
+
+* リモートリポジトリを取得
+```bash
+$ git clone
+```
+
+* 最新のリモートリポジトリブランチを取得
+```bash
+$ git pull
+```
